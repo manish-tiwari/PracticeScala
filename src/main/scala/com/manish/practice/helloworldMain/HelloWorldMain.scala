@@ -1,7 +1,7 @@
 package com.manish.practice.helloworldMain
 
 /**
-  * Created by P10417007 on 8/31/2017.
+  * Created by Manish on 8/31/2017.
   */
 object HelloWorldMain {
 
