@@ -1,6 +1,7 @@
 package com.manish.practice.sbtDependencies
 
-import com.typesafe.scalalogging.slf4j.LazyLogging
+import com.typesafe.scalalogging.LazyLogging
+//import com.typesafe.scalalogging.slf4j.LazyLogging
 
 
 /**
