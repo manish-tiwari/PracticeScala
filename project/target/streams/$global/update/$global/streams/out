@@ -6009,7 +6009,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1088ms :: artifacts dl 77ms
+[debug] :: resolution report :: resolve 1535ms :: artifacts dl 62ms
 [debug] 	report for default#practicescala-build;0.1-SNAPSHOT compile produced in C:\PracticeScala\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-practicescala-build-compile.xml
 [debug] 	report for default#practicescala-build;0.1-SNAPSHOT runtime produced in C:\PracticeScala\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-practicescala-build-runtime.xml
 [debug] 	report for default#practicescala-build;0.1-SNAPSHOT test produced in C:\PracticeScala\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-practicescala-build-test.xml
@@ -6023,5 +6023,5 @@
 [debug] 	report for default#practicescala-build;0.1-SNAPSHOT docs produced in C:\PracticeScala\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-practicescala-build-docs.xml
 [debug] 	report for default#practicescala-build;0.1-SNAPSHOT pom produced in C:\PracticeScala\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-practicescala-build-pom.xml
 [debug] 	report for default#practicescala-build;0.1-SNAPSHOT scala-tool produced in C:\PracticeScala\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-practicescala-build-scala-tool.xml
-[debug] 	resolve done (1088ms resolve - 77ms download)
+[debug] 	resolve done (1535ms resolve - 62ms download)
 [info] Done updating.
