@@ -4,7 +4,7 @@
 		module="practicescala$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170915144558"
+		publication="20171103160602"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
